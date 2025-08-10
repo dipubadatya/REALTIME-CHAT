@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* WhatsApp Web background */
+body {
+  background-color: #ECE5DD; /* Light beige */
+  color: #111b21; /* WhatsApp text color */
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
